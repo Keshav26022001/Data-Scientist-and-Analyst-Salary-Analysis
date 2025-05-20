@@ -1,2 +1,3 @@
-# Data-Scientist-and-Analyst-Salary-Analysis
+# Data Scientist & Analyst Salary Analysis
 Excel Data Analysis Project
+
