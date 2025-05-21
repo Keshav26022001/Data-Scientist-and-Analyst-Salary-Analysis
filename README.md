@@ -20,6 +20,7 @@ The AI Architect position holds the highest average salary in the field of data 
 The most common employment type is full-time.
 ### 6) Average Salary by Employment Type: 
 Full-time employees receive the highest average salary compared to other employment types, such as freelance, contract, and part-time. This is expected, as they dedicate their full working hours to the company.
-### 7) "Job Counts by Type: The most common job type is office work, as companies prefer employees who commit full-time and dedicate themselves to the organization's growth. The least common job type is remote work.
+### 7) "Job Counts by Type: 
+The most common job type is office work, as companies prefer employees who commit full-time and dedicate themselves to the organization's growth. The least common job type is remote work.
 
 ![Screenshot 2025-05-21 114229](https://github.com/user-attachments/assets/021a5d81-5580-40cf-b6c0-566fc475e97b)
