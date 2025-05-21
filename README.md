@@ -4,7 +4,7 @@ Excel Data Analysis Project
 The primary goal of this project is to analyze salary trends and employment patterns in the field of data science and analytics. By examining key factors such as experience, company size, job role, employment type, and geographical location, we aim to provide valuable insights for professionals and organizations.
 This analysis will help:
 1) Job seekers understand salary expectations based on experience and employment type.
-2)Companies optimize compensation structures to attract top talent.
+2) Companies optimize compensation structures to attract top talent.
 3) Industry leaders identify hiring trends across different countries and company sizes.
 ## Key Findings:
 ### 1) Average Salary by Experience:
